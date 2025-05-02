@@ -13,11 +13,16 @@ This Excel dashboard showcases a comprehensive sales and profitability analysis 
 - [Methodology](Methodology)
 - [Insights and Recommendations](Insights-and-Recommendations)
 
+---
 ##  Project Objective
 
 To analyze 2011 sales and profitability trends, uncover high-performing regions and product categories, and present findings through an interactive Excel dashboard that communicates insights effectively to stakeholders.
 
 ---
+## 📊 Dashboard Preview
+
+
+
 ## Data Source
 
 The dataset used for this analysis is the publicly available [Sample - Superstore Sales (Excel).xls](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls) provided by Tableau.  

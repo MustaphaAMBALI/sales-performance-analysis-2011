@@ -7,6 +7,7 @@ This Excel dashboard showcases a comprehensive sales and profitability analysis 
 ---
 ## Table of Contents
 - [Project Objective](Project-Objective)
+- [Dashboard Preview](Dashboard-Preview)
 - [Data Source](Data-Source)
 - [Tools and Features](Tools-and-Features)
 - [Dashboard Overview](Dashboard-Overview)
@@ -19,7 +20,7 @@ This Excel dashboard showcases a comprehensive sales and profitability analysis 
 To analyze 2011 sales and profitability trends, uncover high-performing regions and product categories, and present findings through an interactive Excel dashboard that communicates insights effectively to stakeholders.
 
 ---
-## 📊 Dashboard Preview
+## Dashboard Preview
 ![superstore dashboard port](https://github.com/user-attachments/assets/dc9ec420-854c-4346-80e5-ed69d2f3b12e)
 
 ---

@@ -20,9 +20,9 @@ To analyze 2011 sales and profitability trends, uncover high-performing regions 
 
 ---
 ## 📊 Dashboard Preview
+![superstore dashboard port](https://github.com/user-attachments/assets/dc9ec420-854c-4346-80e5-ed69d2f3b12e)
 
-
-
+---
 ## Data Source
 
 The dataset used for this analysis is the publicly available [Sample - Superstore Sales (Excel).xls](https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls) provided by Tableau.  

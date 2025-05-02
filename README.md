@@ -10,7 +10,7 @@ This Excel dashboard showcases a comprehensive sales and profitability analysis 
 - [Dashboard Preview](Dashboard-Preview)
 - [Data Source](Data-Source)
 - [Tools and Features](Tools-and-Features)
-- [Dashboard Overview](Dashboard-Overview)
+- [Key Dashboard Element](Key-Dashboard-Element)
 - [Methodology](Methodology)
 - [Insights and Recommendations](Insights-and-Recommendations)
 
@@ -42,7 +42,7 @@ For this project, the data was filtered to focus specifically on **2011** sales.
 
 ---
 
-##  Dashboard Overview
+## Key Dashboard Element
 
 Key features of the dashboard include:
 
